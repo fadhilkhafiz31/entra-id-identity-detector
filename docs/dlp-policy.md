@@ -63,7 +63,7 @@ the sender received the automated notification:
 > Your email message conflicts with a policy in your organization. Issues: Message contains the
 > following sensitive information: Malaysia Identity Card Number.
 
-![Outlook notification showing the DLP policy match on a test email containing an NRIC number](screenshots/dlp-notification-email.png)
+![Outlook notification showing the DLP policy match on a test email containing an NRIC number](../screenshots/dlp-notification-email.png)
 
 *Sender-side notification from the `Detect-Malaysian-NRIC` rule firing on a test email.*
 
