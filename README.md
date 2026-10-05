@@ -1,6 +1,6 @@
 # Entra ID Identity Detector
 
-**Status:** Complete (lab scope). Identity-layer detection lab, and companion to [SecureBank (AWS)](https://github.com/fadhilkhafiz31/aws-bruteforce-splunk).
+Identity-layer detection lab and companion to [SecureBank (AWS)](https://github.com/fadhilkhafiz31/aws-bruteforce-splunk).
 
 This lab detects suspicious sign-in activity in Microsoft Entra ID: brute-force attempts and impossible-travel sign-ins. It uses Conditional Access for prevention, Microsoft Sentinel and KQL for detection, and a Python script against the Microsoft Graph API as an independent cross-check. SecureBank covers IaaS/network-layer detection on AWS; this project covers SaaS/PaaS identity-layer detection on Azure.
 
